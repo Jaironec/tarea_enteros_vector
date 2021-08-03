@@ -1,0 +1,3 @@
+C:/Users/PC/CLionProjects/deber_vectores_funciones/cmake-build-debug/CMakeFiles/deber_vectores_funciones.dir
+C:/Users/PC/CLionProjects/deber_vectores_funciones/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/PC/CLionProjects/deber_vectores_funciones/cmake-build-debug/CMakeFiles/rebuild_cache.dir
